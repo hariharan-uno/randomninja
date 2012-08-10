@@ -15,3 +15,4 @@ This is: orange's
 This is: matins
 This is: rotaries
 This is: asparagus
+This is: Fotomat
