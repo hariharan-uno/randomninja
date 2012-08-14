@@ -20,3 +20,4 @@ This is: bareness
 This is: outnumbers
 This is: sleeted
 This is: serviceman
+This is: Panama
