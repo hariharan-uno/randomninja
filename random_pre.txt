@@ -287,3 +287,4 @@ This is: Minsk's
 This is: carriage's
 This is: refreshed
 This is: insufficiency
+This is: legalese
