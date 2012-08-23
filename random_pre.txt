@@ -303,3 +303,4 @@ This is: tomahawk's
 This is: Maltese
 This is: rubber's
 This is: type's
+This is: pomading
