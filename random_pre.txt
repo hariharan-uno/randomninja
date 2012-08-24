@@ -39,3 +39,4 @@ This is: amalgams
 This is: grubbier
 This is: Forbes
 This is: abatement
+This is: permeated
