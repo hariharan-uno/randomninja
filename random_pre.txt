@@ -374,3 +374,4 @@ This is: insentience
 This is: Dniester
 This is: octave's
 This is: jaguar
+This is: fervid
