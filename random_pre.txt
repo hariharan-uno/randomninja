@@ -370,3 +370,4 @@ This is: widowers
 This is: decremented
 This is: crèche
 This is: suspension's
+This is: insentience
