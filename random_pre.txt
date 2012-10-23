@@ -159,3 +159,4 @@ This is: signalizing
 This is: matadors
 This is: sluggishness
 This is: unsophisticated
+This is: minor's
