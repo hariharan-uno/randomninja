@@ -163,3 +163,4 @@ This is: minor's
 This is: doming
 This is: incrimination's
 This is: exporters
+This is: strapping
