@@ -172,3 +172,4 @@ This is: Vulcan
 This is: checkers
 This is: Adolf's
 This is: mediocre
+This is: hedges
