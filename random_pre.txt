@@ -487,3 +487,4 @@ This is: nerdy
 This is: irresolutely
 This is: sloughs
 This is: roods
+This is: transitional
