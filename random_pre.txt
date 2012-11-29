@@ -534,3 +534,4 @@ This is: Guadalajara
 This is: pippin
 This is: stripper's
 This is: Vonda
+This is: ringers
