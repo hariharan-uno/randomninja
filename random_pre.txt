@@ -211,3 +211,4 @@ This is: shave's
 This is: forestall
 This is: tilt
 This is: welts
+This is: halon
