@@ -222,3 +222,4 @@ This is: solider
 This is: Epicurus
 This is: plenipotentiary
 This is: turbine's
+This is: canned
