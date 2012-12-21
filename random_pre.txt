@@ -586,3 +586,4 @@ This is: diacritic's
 This is: dunces
 This is: glade
 This is: florae
+This is: mundanely
