@@ -595,3 +595,4 @@ This is: aquifers
 This is: vitiating
 This is: colonnade
 This is: exhausting
+This is: facile
