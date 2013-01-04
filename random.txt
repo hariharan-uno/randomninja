@@ -586,3 +586,4 @@ This is: Chad's
 This is: stimulates
 This is: manager's
 This is: sultanas
+This is: cokes
