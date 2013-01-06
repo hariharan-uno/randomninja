@@ -25,3 +25,4 @@ This is: Tyler's
 This is: rinks
 This is: Erma
 This is: trudged
+This is: slushy
