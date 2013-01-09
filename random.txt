@@ -596,3 +596,4 @@ This is: abridgements
 This is: tuckers
 This is: airline
 This is: banking
+This is: scoldings
