@@ -40,3 +40,4 @@ This is: cog
 This is: frontage
 This is: sufferings
 This is: responsiveness's
+This is: snifter's
