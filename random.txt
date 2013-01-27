@@ -84,3 +84,4 @@ This is: hunting
 This is: platinum's
 This is: harden
 This is: sooner
+This is: imploded
