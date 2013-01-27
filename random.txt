@@ -627,3 +627,4 @@ This is: Spica
 This is: alas
 This is: Berne
 This is: refrigerates
+This is: accordingly
