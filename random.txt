@@ -130,3 +130,4 @@ This is: rearmost
 This is: abolishes
 This is: degrees
 This is: wefts
+This is: moratorium
