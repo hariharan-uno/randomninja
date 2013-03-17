@@ -147,3 +147,4 @@ This is: vitally
 This is: beer
 This is: jingles
 This is: Gilgamesh
+This is: chip
