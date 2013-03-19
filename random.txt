@@ -150,3 +150,4 @@ This is: Gilgamesh
 This is: chip
 This is: uvulae
 This is: luminescent
+This is: tannest
