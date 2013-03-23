@@ -729,3 +729,4 @@ This is: ales
 This is: statuary
 This is: clicks
 This is: recognizance's
+This is: quote
