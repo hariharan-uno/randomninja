@@ -155,3 +155,4 @@ This is: centering
 This is: dais
 This is: Sevastopol
 This is: tassel
+This is: ocular's
