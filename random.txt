@@ -758,3 +758,4 @@ This is: troupe
 This is: died
 This is: lionized
 This is: parapsychology
+This is: pennies
