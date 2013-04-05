@@ -756,3 +756,4 @@ This is: inhalant
 This is: Hastings
 This is: troupe
 This is: died
+This is: lionized
