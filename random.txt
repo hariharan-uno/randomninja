@@ -782,3 +782,4 @@ This is: instances
 This is: undaunted
 This is: reportage's
 This is: legislation's
+This is: jolt
