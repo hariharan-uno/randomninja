@@ -827,3 +827,4 @@ This is: arsenic
 This is: Shelley
 This is: Corinthians
 This is: Berkshire
+This is: thermometer's
