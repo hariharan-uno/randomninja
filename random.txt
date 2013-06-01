@@ -880,3 +880,4 @@ This is: allergist's
 This is: paddock's
 This is: Chickasaw
 This is: history
+This is: leveraged
