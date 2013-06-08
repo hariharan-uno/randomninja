@@ -906,3 +906,4 @@ This is: loaners
 This is: millenniums
 This is: cream
 This is: terabit
+This is: infrared
