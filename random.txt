@@ -267,3 +267,4 @@ This is: jeopardy
 This is: Sung
 This is: firebombing
 This is: nonuser
+This is: disrobe
