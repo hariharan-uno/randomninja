@@ -908,3 +908,4 @@ This is: cream
 This is: terabit
 This is: infrared
 This is: oscillation's
+This is: programmer's
