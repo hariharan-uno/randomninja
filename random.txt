@@ -277,3 +277,4 @@ This is: comforter's
 This is: ambiguous
 This is: confectioner's
 This is: Angelico
+This is: shy
