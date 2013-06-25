@@ -296,3 +296,4 @@ This is: occupational
 This is: hackneying
 This is: transcendentalism
 This is: psychologically
+This is: momentary
