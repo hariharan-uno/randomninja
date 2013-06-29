@@ -307,3 +307,4 @@ This is: dilation
 This is: fit
 This is: fugues
 This is: stripping
+This is: minion's
