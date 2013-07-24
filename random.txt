@@ -367,3 +367,4 @@ This is: currycombs
 This is: par's
 This is: diarrhoea
 This is: imperiously
+This is: mayors
