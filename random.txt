@@ -1021,3 +1021,4 @@ This is: goal
 This is: widower's
 This is: phoenix's
 This is: Masters
+This is: judicature
