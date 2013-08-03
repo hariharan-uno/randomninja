@@ -1029,3 +1029,4 @@ This is: nullification
 This is: abrasion
 This is: Bridger
 This is: Piraeus
+This is: canvasser
