@@ -1033,3 +1033,4 @@ This is: canvasser
 This is: colossus
 This is: note
 This is: inquirer's
+This is: Thurman
