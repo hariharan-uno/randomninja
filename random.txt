@@ -1048,3 +1048,4 @@ This is: spectacular
 This is: Silas's
 This is: slave
 This is: spoor's
+This is: shadowing
