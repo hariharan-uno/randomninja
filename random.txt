@@ -1050,3 +1050,4 @@ This is: slave
 This is: spoor's
 This is: shadowing
 This is: holster's
+This is: tipsy
