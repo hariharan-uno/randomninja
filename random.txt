@@ -1051,3 +1051,4 @@ This is: spoor's
 This is: shadowing
 This is: holster's
 This is: tipsy
+This is: Cyrano
