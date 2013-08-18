@@ -1061,3 +1061,4 @@ This is: hymn
 This is: shabbily
 This is: suppers
 This is: solicitation
+This is: remuneration
