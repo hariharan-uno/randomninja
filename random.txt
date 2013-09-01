@@ -1082,3 +1082,4 @@ This is: very
 This is: trusty
 This is: diviner's
 This is: schooled
+This is: contractors
