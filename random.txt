@@ -501,3 +501,4 @@ This is: demonstrable
 This is: Lisa
 This is: quintuplets
 This is: wrongdoing
+This is: expectorating
