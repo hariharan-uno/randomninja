@@ -505,3 +505,4 @@ This is: expectorating
 This is: Cora
 This is: downfall
 This is: Damian's
+This is: redcoat
