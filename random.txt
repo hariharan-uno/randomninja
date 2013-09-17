@@ -515,3 +515,4 @@ This is: cohort
 This is: monochrome
 This is: refueling
 This is: payable
+This is: acclimatization
