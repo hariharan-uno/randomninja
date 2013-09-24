@@ -542,3 +542,4 @@ This is: stumbled
 This is: palpably
 This is: émigré's
 This is: herald's
+This is: description's
